@@ -58,7 +58,7 @@ export default {
                 {
                     icon: "el-icon-lx-home",
                     index: "dashboard",
-                    title: "系统首页"
+                    title: "每日一句"
                 },
                 {
                     icon: "el-icon-lx-cascades",
